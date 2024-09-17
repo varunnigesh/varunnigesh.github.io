@@ -49,7 +49,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 * Head, Department & Student Relations, Civil Engineering Association (CEA), IIT Madras, 2019-20
 * Cadet, National Cadet Corps, 2017-19
