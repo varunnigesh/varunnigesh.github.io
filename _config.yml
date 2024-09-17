@@ -24,7 +24,7 @@ author:
   avatar           : "Profile_Pic_2023.JPG"
   name             : "Varun Nigesh S.R."
   pronouns         : "he/him"  
-  bio              : "PhD Student in Geotechnical Engineering at UCLA"
+  bio              : "Ph.D. Student in Geotechnical Engineering"
   location         : "Los Angeles"
   employer         : "UCLA"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/varunnigesh/"
+  linkedin         : "varunnigesh"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
