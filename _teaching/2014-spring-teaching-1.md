@@ -7,9 +7,3 @@ venue: "Civil Engineering, UCLA"
 date: Winter Quarter 2024
 location: "Los Angeles"
 ---
-
- 
-
-# Heading 1
-# ======
-
