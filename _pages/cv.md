@@ -36,18 +36,6 @@ Professional experience
   * Responsible for procuring items, a total worth of ~$125k, for the project through systematic rate analysis and vendor management.
   * Created a Daily Progress Report (DPR) in Excel that tracks the daily progress and  optimized the DPR by linking the physical progress with financial progress.
   * Devised Catchup Programs for the sites using Primavera P6 to improve the rate of progress and ensured the resource planning for the same.
- 
-#Publications
-#======
-#  <ul>{% for post in site.publications reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
   
 Service and Leadership
 ======
