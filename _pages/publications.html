@@ -1,36 +1,10 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+title: "The Horizontal Mode Natural Frequency of a Floating Pile in Layered Soil: Full-Scale Field Test Vs Mathematical Models"
+collection: publications
+category: manuscripts
+permalink: 
+excerpt: ''
+date: 20-Feb-2023
+venue: 'Indian Geotechnical Journal'
+slidesurl: ''
+paperurl: 'https://link.springer.com/article/10.1007/s40098-023-00713-8#Abs1'
+citation: 'Varghese, R., Nigesh, S.R.V., Banerjee, S. et al. The Horizontal Mode Natural Frequency of a Floating Pile in Layered Soil: Full-Scale Field Test Vs Mathematical Models. Indian Geotech J 53, 717–731 (2023). https://doi.org/10.1007/s40098-023-00713-8'
