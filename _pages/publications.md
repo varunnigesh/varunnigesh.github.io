@@ -1,3 +1,14 @@
+---
+layout: archive
+title: ""
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 title: "The Horizontal Mode Natural Frequency of a Floating Pile in Layered Soil: Full-Scale Field Test Vs Mathematical Models"
 collection: publications
 category: manuscripts
