@@ -2,7 +2,7 @@
 title: "The Horizontal Mode Natural Frequency of a Floating Pile in Layered Soil: Full-Scale Field Test Vs Mathematical Models"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: 
 excerpt: ''
 date: 20-Feb-2023
 venue: 'Indian Geotechnical Journal'
