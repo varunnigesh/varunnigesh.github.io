@@ -17,6 +17,7 @@ Education
 
 Awards and Honors
 ======
+* IGS–AIMIL Biennial Award for the best publication, Indian Geotechnical Society, 2024 
 * UCLA Graduate Student Fellowship, UCLA Graduate Division, 2024
 * Future Research Talent Award, Australian National University, 2020
 * Merit cum Means Scholarship, IIT Madras, 2017-24
