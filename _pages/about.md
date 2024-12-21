@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing Ph.D. in Geotechnical Engineering at University of California, Los Angeles. I am still exploring the broad domain of Geotechnical Earthquake Engineering. My ongoing research focuses on the effect of Fines on the liquefaction triggering analyses. I am jointly advised by Prof. Jonathan Stewart and Prof. Scott Brandenberg.
+I am currently pursuing Ph.D. in Geotechnical Engineering at University of California, Los Angeles. I am still exploring the broad domain of Geotechnical Earthquake Engineering. I am jointly advised by Prof. Scott Brandenberg and Prof. Jonathan Stewart. My ongoing research focuses on the effect of fines on the liquefaction triggering analyses.
 
 Education
 ======
@@ -17,6 +17,7 @@ Education
 
 Awards and Honors
 ======
+* IGS–AIMIL Biennial Award for the best publication, Indian Geotechnical Society, 2024
 * UCLA Graduate Student Fellowship, UCLA Graduate Division, 2024
 * Future Research Talent Award, Australian National University, 2020
 * Merit cum Means Scholarship, IIT Madras, 2017-24
